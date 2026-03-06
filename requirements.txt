@@ -4,3 +4,4 @@ streamlit
 numpy
 seaborn
 plotly
+altair
